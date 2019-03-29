@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #安装centos7.3+nginx脚本
 
